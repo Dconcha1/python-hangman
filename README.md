@@ -1,1 +1,1 @@
-# python-hanman
+# python-hangman
